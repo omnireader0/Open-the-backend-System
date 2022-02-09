@@ -23,12 +23,10 @@
 
 ### 🧾 Document
 
-- [깃헙 주소](https://github.com/redcarrot01/Open-the-Backend-System/wiki/깃헙-주소)
 - [프로젝트 이슈 관리](https://github.com/redcarrot01/Open-the-Backend-System/projects/1)
 - [깃헙 위키 관리](https://github.com/redcarrot01/Open-the-Backend-System/wiki)
-
 - [Postman API 명세서](https://documenter.getpostman.com/view/13653541/UUy1g7Y3)
-- [코딩 컨벤션](https://github.com/redcarrot01/Open-the-Backend-System/wiki/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98)
+
 
 ### 🔖 최종 구성한 아키텍처
 
@@ -36,24 +34,21 @@
 
 
 
-### 🔱 [개발 위키 전체 보기](https://www.notion.so/Open-the-backend-System-3f5a33c0db7e487b8a18adb812a1b2d4)
+### 🔱 [개발 위키 전체 보기](https://lean-owner-437.notion.site/Open-the-backend-System-2c11332ea53243f69282b0a647b00ee5)
 
-#### ✨ [BE 개발 과정](https://www.notion.so/979e3e6498e049a5aabe3d8d16a90133?v=0998c1c980124649885003596aeef337)
+#### ✨ [BE 개발 과정](https://lean-owner-437.notion.site/786dbdf7f2664c59be1186d25eeaabee?v=ca1cbd8a69cc40f1873b15f75295b5c0)
 개발 과정을 순서대로 포스팅했습니다.
 
-#### ❓ [Question](https://www.notion.so/f5ef82c5581347b882ac044f7be9f67e?v=390179fdfae043d3afc726eeaab8f8f6)
+#### ❓ [Question](https://lean-owner-437.notion.site/04ef5d833cb647c48910bbe2b2fd8d73?v=380c8663d6004972b106029b568097b2)
 
 자문자답 : 개발에서 생긴 **궁금증**을 정리하고 **답을 찾아나가고** 있습니다.  
 
-#### ✅ [Deep Study](https://www.notion.so/ed24432b0018427682d46d5ecb640b68?v=8fd4e96446d6494f96aab9d9231d7d45)
+#### ✅ [Deep Study](https://lean-owner-437.notion.site/880a31692ac04b929a83be0a23d462c9?v=29a198c3797640a3b1118add1c6e947c)
 
 **더 알고 싶은 내용**들을 정리했습니다.  
 
-#### 📌 [Trouble Shooting](https://www.notion.so/6ce652ad730e4c048453cfe2d313cc9a?v=13d6a13a01814bb88d6fef3f8957371a)
+#### 📌 [Trouble Shooting](https://lean-owner-437.notion.site/75b5e0f24ccd459ea0509236a2a048da?v=fa0d301c692d4d4c8c5c5860fd9c40e8)
 
 개발에서 발생한 **에러 해결 과정을 공유**하고 싶습니다.   
-
-#### 📚 [Tech Reading](https://www.notion.so/ea84e07b3b8044b2acb304632a791485?v=8730ce69af4f4be093c7fcc3e3d7acd4)
-
-관련 읽을 거리를 공유합니다.   
+  
 
